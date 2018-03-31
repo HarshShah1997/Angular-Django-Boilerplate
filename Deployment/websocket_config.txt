@@ -1,0 +1,6 @@
+INSTALLED_APPS += [
+    'ws4redis'
+]
+
+WEBSOCKET_URL = '/ws/'
+
